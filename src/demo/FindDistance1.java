@@ -42,4 +42,9 @@ public class FindDistance1 {
 					indexes[2]+", "+indexes[3]+", "+indexes[4]);
 		}
 	}
+	
+	public void getValuesWithIndex()
+	{
+		
+	}
 }
